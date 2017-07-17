@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241876863431",
+    "firebase_url": "https://mynewapp-b45ed.firebaseio.com",
+    "project_id": "mynewapp-b45ed",
+    "storage_bucket": "mynewapp-b45ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241876863431:android:009ac10c5ac638f8",
+        "android_client_info": {
+          "package_name": "com.pasha.mynewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241876863431-dgidoqgq5rjdo9rre6c7ec8inkbmu4ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-cQUT7pF-bKzuNXLwOPpNSlLXpNbDnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
